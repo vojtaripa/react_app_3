@@ -336,7 +336,7 @@ class Garage extends React.Component
 		  
 		  {/* Title*/}
 		  <h1>Who lives in my garage?</h1>
-		  <h1></h1>
+		 
  	
 	     {/* Car 1 */} 
 		  <table>
