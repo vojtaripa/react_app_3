@@ -16,7 +16,7 @@ const myfirstelement = (
 </div>
 );
 	
-const secondelement = <h2>second element</h2>
+//not used... const secondelement = <h2>second element</h2>
 
 //Renders the DOM:
 ReactDOM.render(myfirstelement, document.getElementById('root'));
