@@ -1,5 +1,5 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
+//import ReactDOM from 'react-dom';
 import './vojta_style.css';
 
 //CLASS 1
@@ -88,9 +88,9 @@ class Car extends React.Component {
   render() 
   {
 	 //for CSS: 
-	 const mystyle = {
+/*	 const mystyle = {
       //add css here
-    };
+    };*/
 	
 	
 	let mypassanger;
@@ -211,7 +211,7 @@ class Garage extends React.Component
   render() 
   {
     
-	   {/* only returns H1 if user typed something in*/}
+	  // {/* only returns H1 if user typed something in*/}
 	     let header = '';
 			if (this.state.username) 
 			{
